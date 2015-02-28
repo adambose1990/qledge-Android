@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_id">XXXXXXXXXXXX</string>
+    <string name="leaderboard_stage_mode_leaderboard">XXXXXXXXXXXXXXXXXX</string>
+    <string name="leaderboard_quickplay_leaderboard">XXXXXXXXXXXXXXXXXX</string>
+    
+    <string name="achievement_soldier">XXXXXXXXXXXXXXXXXX</string>
+    <string name="achievement_lieutenant">XXXXXXXXXXXXXXXXXX</string>
+    <string name="achievement_newbie">XXXXXXXXXXXXXXXXXX</string>
+    <string name="achievement_captain">XXXXXXXXXXXXXXXXXX</string>
+    <string name="achievement_major">XXXXXXXXXXXXXXXXXX</string>
+    <string name="achievement_survivor">XXXXXXXXXXXXXXXXXX</string>
+    <string name="achievement_genius">XXXXXXXXXXXXXXXXXX</string>
+    <string name="achievement_lieutenant_colonel">XXXXXXXXXXXXXXXXXX</string>
+    <string name="achievement_colonel">XXXXXXXXXXXXXXXXXX</string>
+    <string name="achievement_brigadier_general">XXXXXXXXXXXXXXXXXX</string>
+    <string name="achievement_master">XXXXXXXXXXXXXXXXXX</string>
+    <string name="achievement_major_general">XXXXXXXXXXXXXXXXXX</string>
+    <string name="achievement_lieutenant_general">XXXXXXXXXXXXXXXXXX</string>
+    <string name="achievement_supreme">XXXXXXXXXXXXXXXXXX</string>
+    <string name="achievement_general">XXXXXXXXXXXXXXXXXX</string>
+    
+    <string name="event_total_game_won">XXXXXXXXXXXXXXXXXX</string>
+    
+    <string name="bottom_banner_menuactivity">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    <string name="bottom_banner_quickselectcategoryactivity">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    <string name="bottom_banner_quickselectsubcategoryactivity">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    <string name="bottom_banner_quickgamescorecardactivity">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    <string name="bottom_banner_optionactivity">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    <string name="bottom_banner_stageselectlevelactivity">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    <string name="bottom_banner_stageselectstageactivity">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    <string name="bottom_banner_stagegamescorecardactivity">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    
+    <string name="publisher_id">pub-XXXXXXXXXXXXXXXX</string>
+
+</resources>

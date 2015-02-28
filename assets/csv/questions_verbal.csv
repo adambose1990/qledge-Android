@@ -1,0 +1,100 @@
+q0000,2,0,EMBEZZLE,Misappropriate,Balance,Remunerate,Clear,1
+q0001,2,0,AUGUST,Dignified,Common,Ridiculous,Petty,2
+q0002,2,0,ALERT,Watchful,Energetic,Observant,Intelligent,3
+q0003,2,0,BROWSE,Examine,Heal,Deceive,Strike,4
+q0004,2,0,RESTRAINT,Restriction,Hindrance,Repression,Obstacle,5
+q0005,2,0,VENUE,Place,Agenda,Time,Duration,6
+q0006,2,0,CANDID,Frank,Explicit,Apparent,Bright,7
+q0007,2,0,INSOMNIA,Sleeplessness,Lethargy,Drunkenness,Unconsciousness,8
+q0008,2,0,LAUD,Praise,Lord,Eulogy,Extolled,9
+q0009,2,0,IMPROMPTU,Offhand,Unimportant,Unreal,Effective,10
+q0050,2,0,CORPULENT,Obese,Lean,Gaunt,Emaciated,1
+q0051,2,0,BRIEF,Short,Limited,Small,Little,2
+q0052,2,0,VENT,Opening,Stodge,End,Past tense of 'go',3
+q0053,2,0,CANNY,Clever,Obstinate,Handsome,Stout,4
+q0054,2,0,WARRIOR,Soldier,Pirate,Sailor,Spy,5
+q0055,2,0,DISTANT,Far,Removed,Reserved,Separate,6
+q0056,2,0,ADVERSITY,Misfortune,Failure,Helplessness,Crisis,7
+q0057,2,0,FAKE,Imitation,Original,Trustworthy,Loyal,8
+q0058,2,0,INDICT,Accuse,Condemn,Reprimand,Allege,9
+q0059,2,0,STRINGENT,Rigorous,Dry,Strained,Shrill,10
+q0010,2,1,ARTIFICIAL,Natural,Red,Truthful,Solid,1
+q0011,2,1,MORTAL,Immortal,Divine,Spiritual,Eternal,2
+q0012,2,1,DOUBTFUL,Certain,Famous,Fixed,Important,3
+q0013,2,1,BENIGN,Malevolent,Soft,Friendly,Unwise,4
+q0014,2,1,HINDRANCE,Aid,Persuasion,Cooperation,Agreement,5
+q0015,2,1,BASE,Top,Climax,Height,Roof,6
+q0016,2,1,GULLIBLE,Incredulous,Fickle,Easy,Stylish,7
+q0017,2,1,REVEALED,Concealed,Denied,Ignored,Overlooked,8
+q0018,2,1,FICKLE,Steadfast,Courageous,Sincere,Humble,9
+q0019,2,1,VIRTUOUS,Wicked,Corrupt,Vicious,Scandalous,10
+q0060,2,1,ENORMOUS,Tiny,Soft,Average,Weak,1
+q0061,2,1,COMMISSIONED,Terminated,Started,Finished,Closed,2
+q0062,2,1,EXODUS,Influx,Home-coming,Return,Restoration,3
+q0063,2,1,RELINQUISH,Possess,Abdicate,Renounce,Deny,4
+q0064,2,1,EXPAND,Condense,Convert,Congest,Conclude,5
+q0065,2,1,QUIESCENT,Active,Dormant,Weak,Unconcerned,6
+q0066,2,1,OBEYING,Ordering,Following,Refusing,Contradicting,7
+q0067,2,1,FRAUDULENT,Genuine,Forthright,Candid,Direct,8
+q0068,2,1,FLAGITIOUS,Innocent,Vapid,Ignorant,Frivolous,9
+q0069,2,1,BELITTLE,Exaggerate,Criticize,Flatter,Adore,10
+q0020,2,2,The study of ancient societies,History,Anthropology,Archaeology,Ethnology,1
+q0021,2,2,A person who insists on something,Stickler,Disciplinarian,Instantaneous,Boaster,2
+q0022,2,2,State in which the few govern the many,Oligarchy,Monarchy,Plutocracy,Autocracy,3
+q0023,2,2,A school boy who cuts classes frequently is a,Truant,Defeatist,Sycophant,Martinet,4
+q0024,2,2,Ready to believe,Credible,Credulous,Creditable,Incredible,5
+q0025,2,2,A government by the nobles,Aristocracy,Democracy,Autocracy,Bureaucracy,6
+q0026,2,2,Hater of learning and knowledge,Misologist,Bibliophile,Misogynist,Misanthropist,7
+q0027,2,2,Incapable of being seen through,Opaque,Ductile,Obsolete,Potable,8
+q0028,2,2,Murder of a brother,Fratricide,Patricide,Regicide,Homicide,9
+q0029,2,2,A voice loud enough to be heard,Audible,Applaud able,Laudable,Oral,10
+q0070,2,2,Extreme old age when a man behaves like a fool,Dotage,Imbecility,Senility,Superannuation,1
+q0071,2,2,That which cannot be corrected,Incorrigible,Unintelligible,Indelible,Illegible,2
+q0072,2,2,A person of good understanding knowledge and reasoning power,Intellectual,Expert,Snob,Literate,3
+q0073,2,2,A style in which a writer makes a display of his knowledge,Pedantic,Verbose,Pompous,Ornate,4
+q0074,2,2,List of the business or subjects to be considered at a meeting,Agenda,Schedule,Timetable,Plan,5
+q0075,2,2,Leave or remove from a place considered dangerous,Evacuate,Evade,Avoid,Exterminate,6
+q0076,2,2,A person pretending to be somebody he is not,Imposter,Magician,Liar,Rogue,7
+q0077,2,2,A person who knows many foreign languages,Linguist,Grammarian,Polyglot,Bilingual,8
+q0078,2,2,One who has little faith in human sincerity and goodness,Cynic,Egoist,Stoic,Fatalist,9
+q0079,2,2,One who possesses many talents,Versatile,Exceptional,Nubile,Gifted,10
+q0030,2,3,To keeps one's temper,To be in good mood,To become hungry,To preserve ones energy,To be aloof from,1
+q0031,2,3,To drive home,To emphasise,To find one's roots,To return to place of rest,Back to original position,2
+q0032,2,3,To have an axe to grind,A private end to serve,To fail to arouse interest,To have no result,To work for both sides,3
+q0033,2,3,To be the question,To take for granted,To refer to,To raise objections,To be discussed,4
+q0034,2,3,A black sheep,An odd member of a group,An unlucky person,A lucky person,An ugly person,5
+q0035,2,3,To cry wolf,To give false alarm,To listen eagerly,To turn pale,To keep off starvation,6
+q0036,2,3,To be above board,To be honest in any business deal,To have a good height,They have no debts,To try to be beautiful,7
+q0037,2,3,To make clean breast of,To confess without of reserve,To gain prominence,To praise oneself,To destroy before it ,8
+q0038,2,3,To end in smoke,To ruin oneself,To make completely understand,To excite great applause,To overcome someone,9
+q0039,2,3,To pick holes,To criticise someone,To find some reason to quarrel,To destroy something,To cut some part of an item,10
+q0080,2,3,To set one's face against,To oppose with determination,To judge by appearence,To get out of difficulty,To look at one steadily,1
+q0081,2,3,To hit the nail right on the head,To do the right thing,To destroy one's reputation,To announce one's fixed views,To teach someone a lesson,2
+q0082,2,3,To smell a rat,To suspect foul dealings,To get bad small of a bad dead rat,To see signs of plague epidemic,To be in a bad mood,3
+q0083,2,3,A man of straw,A man of no substance,A very active person,A worthy fellow,An unreasonable person,4
+q0084,2,3,To tread on the toes,To give offence to someone,To follow someone grudgingly,To treat someone indifferently,To be kicked by someone,5
+q0085,2,3,At one's wit's end,Perplexed,Clear Up,Explain,Enlighten,6
+q0086,2,3,At one's fingertips,Complete knowledge,To take revenge,Matter of shame,None of these,7
+q0087,2,3,At the spur of the moment,Without Delay,Difficult Moment,Great Moment,Very Slow,8
+q0088,2,3,All in all,Most important,Call all at once,Particular thing same in all,Every person,9
+q0089,2,3,At close quarters,Close examinations,Live near to each other,Live far to each other,In love,10
+q0040,2,4,GRAIN : SALT,chip:glass,shard:pottery,shred:wood,blades:grass,1
+q0041,2,4,LIGHT: BLIND,speech:dumb,language:deaf,tongue:sound,voice:vibration,2
+q0042,2,4,PAIN : SEDATIVE,grief:consolation,comfort:stimulant,trance:narcotic,ache:extraction,3
+q0043,2,4,HOPE : ASPIRES,fib:lie,love:elevates,film:flam,fake:ordinary,4
+q0044,2,4,TEN : DECIMAL,two:binary,seven:septet,four:quartet,five:quince,5
+q0045,2,4,GRAVITY : PULL,magnetism:attraction,iron:metal,north pole:directions,dust:desert,6
+q0046,2,4,DISTANCE : MILE,liquid:litre,bushel:corn,weight:scale,fame:television,7
+q0047,2,4,INDIGENT : WEALTHY,gauche:graceful,angry:rich,native:affluent,scholarly:erudite,8
+q0048,2,4,AFTER : BEFORE,successor:predecessor,first:second,present:past,contemporary:historic,9
+q0049,2,4,FILTER : WATER,censor:play,curtail:activity,expunge:book,edit:text,10
+q0090,2,4,DIVA : OPERA,thespian:play,conductor:bus,producer:theatre,director:drama,1
+q0091,2,4,Doctor : Nurse :: ? : Follower,Leader,Employer,Worker,Manager,2
+q0092,2,4,SYMPHONY : COMPOSER,fresco:painter,leonardo:music,colours:pallet,art:appreciation,3
+q0093,2,4,PORK : PIG,mutton:sheep,rooster:chicken,steer:beef,lobster:crustacean,4
+q0094,2,4,MUNDANE : SPIRITUAL,worldly:unworldly,common:ghostly,routine:novel,secular:clerical,5
+q0095,2,4,ARMY : LOGISTICS,business:strategy,soldier:students,war:logic,team:individual,6
+q0096,2,4,CORPOREAL : SPIRITUAL,moron:savant,mesa:plateau,foreigner:immigrant,pedagogue:teacher,7
+q0097,2,4,THRUST : SPEAR,fence:epee,bow:arrow,mangle:iron,scabbard:sword,8
+q0098,2,4,WAN : COLOUR,insipid:flavour,corpulent:weight,pallid:complexion,pallid:complexion,9
+q0099,2,4,Tractor : Trailer :: Horse : ?,Cart,Stable,Saddle,Engine,10
